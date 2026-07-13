@@ -11,3 +11,4 @@ case-promicro & case-oled:
 ![Dongle Ver 2](docs/dongle2_back.png "dongle back")
 ![Dongle Ver 2](docs/dongle2_bottom.png "dongle bottom")
 ![Dongle Ver 2](docs/dongle2_exploded.png "dongle exploded")
+![Dongle Ver 2](docs/dongle-armor-front.png "dongle armor")
