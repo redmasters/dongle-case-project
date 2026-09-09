@@ -1,0 +1,16 @@
+dimensoes oled (mm)
+compartimento que abriga todo o oled:
+39.8x12.2
+
+tela oled:
+30.9x10.5
+
+promicro
+35.00x18.3
+
+
+corpo X 
+44x
+
+furo oled - display-body
+3,730
