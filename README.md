@@ -6,6 +6,8 @@ Dongle design for pro-micro with OLED 128x32
 
 case-promicro & case-oled:
 
+![Dongle Ver 2](docs/donglev2.png "dongle project")
+![Dongle Ver 2](docs/donglev2-exploded.png "dongle project")
 ![Dongle Ver 1](docs/actual-state.png "dongle project")
 ![Dongle Ver 2](docs/dongle2_front.png "dongle front")
 ![Dongle Ver 2](docs/dongle2_back.png "dongle back")
